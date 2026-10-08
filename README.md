@@ -8,3 +8,7 @@ There are two classes, one is the circle that is used to represent an earthquake
 
 *Hovering over a circle will display its information: country, location(longitude and latitude), and magnitude*
 
+
+<img width="1502" height="949" alt="Screenshot 2026-10-07 at 6 51 54 PM" src="https://github.com/user-attachments/assets/6ec8866f-ecb2-4b66-a538-5655483f85ab" />
+
+<img width="1502" height="949" alt="Screenshot 2026-10-07 at 6 52 15 PM" src="https://github.com/user-attachments/assets/a1c6661c-d1b5-4270-9c92-a47b99d638bf" />
